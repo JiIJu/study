@@ -22,3 +22,8 @@ for i in range(1,T+1):
     print('#{}'.format(i))
     for i in range(0,len(test),10):
         print(test[i:i+10])
+        
+        
+        
+       
+    // print("참 잘했어요")
